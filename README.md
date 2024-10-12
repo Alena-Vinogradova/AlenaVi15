@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlenaVi15
+- 👋 Hi, I’m @AlenaVinogradova
 - 👀 I’m interested in Data analysis
 
 
